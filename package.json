@@ -1,0 +1,26 @@
+{
+  "name": "npm-save-installed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonatanpedersen/npm-save-installed.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonatanpedersen/npm-save-installed/issues"
+  },
+  "homepage": "https://github.com/jonatanpedersen/npm-save-installed#readme",
+  "dependencies": {
+    "detect-indent": "^4.0.0"
+  },
+  "preferGlobal": true,
+  "directories": {
+    "bin": "./bin"
+  }
+}
