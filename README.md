@@ -1,6 +1,8 @@
 # npm-save-installed
 Updates package.json with the exact version of the installed package in the node_modules directory. Useful for forcing installation of exact commit of git dependencies (packages not hosted on NPM).
 
+[![Build Status](https://travis-ci.org/jonatanpedersen/npm-save-installed.svg?branch=master)](https://travis-ci.org/jonatanpedersen/npm-save-installed)
+
 # Installation
 ``` bash
 $ npm install npm-save-installed -g
