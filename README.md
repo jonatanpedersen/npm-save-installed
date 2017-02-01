@@ -2,6 +2,9 @@
 Updates package.json with the exact version of the installed package in the node_modules directory. Useful for forcing installation of exact commit of git dependencies (packages not hosted on NPM).
 
 [![Build Status](https://travis-ci.org/jonatanpedersen/npm-save-installed.svg?branch=master)](https://travis-ci.org/jonatanpedersen/npm-save-installed)
+[![NPM Version](https://img.shields.io/npm/v/npm-save-installed.svg)](https://www.npmjs.com/package/npm-save-installed)
+[![NSP Status](https://nodesecurity.io/orgs/jonatanpedersen/projects/7c4a12cc-45b8-49c8-9130-b388108148f2/badge)](https://nodesecurity.io/orgs/jonatanpedersen/projects/7c4a12cc-45b8-49c8-9130-b388108148f2)
+[![Greenkeeper badge](https://badges.greenkeeper.io/jonatanpedersen/npm-save-installed.svg)](https://greenkeeper.io/)
 
 # Installation
 ``` bash
