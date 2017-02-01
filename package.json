@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "postversion": "git push && git push --tags",
+    "preversion": "npm test",
     "test": "mocha"
   },
   "repository": {
